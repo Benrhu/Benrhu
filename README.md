@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on [Grouzy](https://grouzy.com)
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Nim**
 
 - 👯 I’m looking to collaborate on [Mattermost](https://mattermost.com/)
 
