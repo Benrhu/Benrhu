@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrhu&label=Profile%20views&color=0e75b6&style=flat" alt="benrhu" /> </p>
 
-- 🔭 I’m currently working on [Grouzy.com](htpps://grouzy.com)
+- 🔭 I’m currently working on my Software Company.
 
-- 🌱 I’m currently learning **Clojure**
+- 🌱 I’m currently learning AI development.
 
-- 🤝 I’m looking for help with **creating dev team**
+- 🤝 I’m looking for help with cutomers and projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Benrhu](https://github.com/Benrhu)
 
-- 💬 Ask me about **Softwares as a Service**
+- 💬 Ask me about **Software as a Service**
 
-- 📫 How to reach me **rdiaz@grouzy.com**
+- 📫 How to reach me **rubendiaz300000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,10 +41,10 @@
 
 ### Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" style="max-width: 100%">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/vue.svg" style="max-width: 100%">
   <img src="https://cdn.discordapp.com/attachments/975450807833079871/977178201472245760/expressJS.png" style="width: 130px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs_larger.svg" style="max-width: 100%">  
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" style="max-width: 100%">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/tailwind.svg" style="max-width: 100%">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width: 100%">  
 </p>
 
