@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software as a Service**
 
-- 📫 How to reach me [https://ruben-web.vercel.app](Mi web)
+- 📫 How to reach me <a href="https://ruben-web.vecel.app" target="blank">Mi web</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
