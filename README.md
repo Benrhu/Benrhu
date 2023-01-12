@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benrhu&label=Profile%20views&color=0e75b6&style=flat" alt="benrhu" /> </p>
 
-- 🔭 I’m currently working on my Software Company.
+- 🔭 I’m currently working as Freelance.
 
-- 🌱 I’m currently learning AI development.
+- 🌱 I’m currently learning NLP.
 
-- 🤝 I’m looking for help with cutomers and projects
+- 🤝 I’m looking for help with cutomers.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Benrhu](https://github.com/Benrhu)
 
 - 💬 Ask me about **Software as a Service**
 
-- 📫 How to reach me **rubendiaz300000@gmail.com**
+- 📫 How to reach me [https://ruben-web.vercel.app](Mi web)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
